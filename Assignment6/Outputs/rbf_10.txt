@@ -1,0 +1,47 @@
+Principal Componenets Analysis : Components 10
+*****SVM with RBF Kernels*********
+
+------Fold No------ 1
+Confusion Matrix: 
+[[ 0 11]
+ [ 0  9]]
+Accuracy:  45.0 %
+Precision Score: 0.0
+Recall Score: 0.0
+------------------------
+
+------Fold No------ 2
+Confusion Matrix: 
+[[ 0  7]
+ [ 0 13]]
+Accuracy:  65.0 %
+Precision Score: 0.0
+Recall Score: 0.0
+------------------------
+
+------Fold No------ 3
+Confusion Matrix: 
+[[ 8  0]
+ [ 0 12]]
+Accuracy:  100.0 %
+Precision Score: 1.0
+Recall Score: 1.0
+------------------------
+
+------Fold No------ 4
+Confusion Matrix: 
+[[ 9  0]
+ [ 0 11]]
+Accuracy:  100.0 %
+Precision Score: 1.0
+Recall Score: 1.0
+------------------------
+
+------Fold No------ 5
+Confusion Matrix: 
+[[ 9  0]
+ [ 0 11]]
+Accuracy:  100.0 %
+Precision Score: 1.0
+Recall Score: 1.0
+------------------------

@@ -1,0 +1,47 @@
+Principal Componenets Analysis : Components 100
+*****SVM with Linear Kernels*********
+
+------Fold No------ 1
+Confusion Matrix: 
+[[7 4]
+ [0 9]]
+Accuracy:  80.0 %
+Precision Score: 1.0
+Recall Score: 0.636363636364
+------------------------
+
+------Fold No------ 2
+Confusion Matrix: 
+[[ 7  0]
+ [ 0 13]]
+Accuracy:  100.0 %
+Precision Score: 1.0
+Recall Score: 1.0
+------------------------
+
+------Fold No------ 3
+Confusion Matrix: 
+[[7 1]
+ [3 9]]
+Accuracy:  80.0 %
+Precision Score: 0.7
+Recall Score: 0.875
+------------------------
+
+------Fold No------ 4
+Confusion Matrix: 
+[[ 9  0]
+ [ 0 11]]
+Accuracy:  100.0 %
+Precision Score: 1.0
+Recall Score: 1.0
+------------------------
+
+------Fold No------ 5
+Confusion Matrix: 
+[[ 9  0]
+ [ 0 11]]
+Accuracy:  100.0 %
+Precision Score: 1.0
+Recall Score: 1.0
+------------------------
